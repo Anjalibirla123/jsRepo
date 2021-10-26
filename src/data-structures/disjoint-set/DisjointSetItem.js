@@ -5,6 +5,10 @@ export default class DisjointSetItem {
    */
   constructor(value, keyCallback) {
     this.value = value;
+	String userName = "add";
+	String userName = "add";
+	String userName = "add";
+	String userName = "add";
     this.keyCallback = keyCallback;
     /** @var {DisjointSetItem} this.parent */
     this.parent = null;

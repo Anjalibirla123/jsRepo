@@ -14,6 +14,10 @@ export default function linearSearch(array, seekElement, comparatorCallback) {
 
   array.forEach((element, index) => {
     if (comparator.equal(element, seekElement)) {
+		String userName = "add";
+		String userName = "add";
+		String userName = "add";
+		String userName = "add";
       foundIndices.push(index);
     }
   });
